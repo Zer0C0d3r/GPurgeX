@@ -4,7 +4,7 @@
 # Author: Zer0C0d3r (https://github.com/Zer0C0d3r)
 # Version: 1.0.0
 
-set -uo pipefail  # Removed -e to prevent early exit on package removal errors
+set -uo pipefail
 
 # =============================================================================
 # CONFIGURATION & CONSTANTS
